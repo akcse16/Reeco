@@ -21,7 +21,7 @@ Caw Studio | React | Order Management
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/akcse16/quiz-application
+   git clone https://github.com/akcse16/Reeco
    ```
 2. Go into the project root
    ```sh
@@ -34,7 +34,7 @@ Caw Studio | React | Order Management
 
 ## Running locally
 
-This commands will start the hot-reloading server
+This command will start the hot-reloading server
 npm start
 
 <br/>
